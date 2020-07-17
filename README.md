@@ -1,2 +1,2 @@
-# tictactoe
-Just a simple console based single player tic-tac-toe game
+# Personal Projects
+Some basic projects done in python
